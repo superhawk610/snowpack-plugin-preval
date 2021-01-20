@@ -1,0 +1,22 @@
+{
+  "name": "snowpack-plugin-preval",
+  "author": "Aaron Ross <superhawk610@gmail.com>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "snowpack",
+    "snowpack-plugin",
+    "preval"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superhawk610/snowpack-plugin-preval.git"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "require-from-string": "^2.0.2"
+  }
+}
